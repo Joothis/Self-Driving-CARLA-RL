@@ -81,17 +81,6 @@ Self-Driving-CARLA-RL/
 - Simplify the reward function.
 - Start with a small map (e.g., `Town01`) and short episodes.
 
-## Record a Demo Video
-- Use **OBS Studio** or **ScreenRec** to capture the simulation.
-- Showcase the car’s behavior before/after training.
-
-## Prepare a Report/Presentation
-### **Topics to Cover:**
-1. **Problem Statement:** Why autonomous driving simulation?
-2. **Methodology:** RL algorithm, reward design, neural network structure.
-3. **Results:** Training curves, performance metrics (e.g., collision rate, episode length).
-4. **Challenges:** Hardware limitations, CARLA setup quirks, RL stability.
-
 ## Advanced Enhancements
 
 ### **Future Improvements:**
@@ -117,6 +106,5 @@ Self-Driving-CARLA-RL/
 - Check for **reward function anomalies**.
 - Train with fewer sensors initially to stabilize learning.
 
----
-This README serves as a complete guide to setting up, running, and improving the autonomous driving project in CARLA using RL.
+
 
